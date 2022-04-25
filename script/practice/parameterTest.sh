@@ -3,7 +3,7 @@ source $(dirname $0)/color.sh
 
 # 변수 선언
 EXECUTION_PATH=$(pwd) # 해당 스크립트를 실행시킨 경로
-SHELL_SCRIPT_PATH=$(dirname $0) # 해당 스크립트의
+SHELL_SCRIPT_PATH=$(dirname $0) # 해당 스크립트의 실행경로
 FIRST=$1 # 1 번째 입력 값
 SECOND=$2 # 2 번째 입력 값
 
